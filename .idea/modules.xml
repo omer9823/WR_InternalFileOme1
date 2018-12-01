@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WR_InternalFileOme.iml" filepath="$PROJECT_DIR$/WR_InternalFileOme.iml" />
+      <module fileurl="file://C:\Users\omer3\WR_InternalFileOme\WR_InternalFileOme.iml" filepath="C:\Users\omer3\WR_InternalFileOme\WR_InternalFileOme.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\omer3\WR_InternalFileOme\app\app.iml" filepath="C:\Users\omer3\WR_InternalFileOme\app\app.iml" />
     </modules>
   </component>
 </project>
